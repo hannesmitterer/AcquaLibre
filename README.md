@@ -19,4 +19,4 @@ Per maggiori dettagli, consultare il documento [PoC-001.md](./PoC-001.md).
 
 ## Licenza
 
-MIT License - Vedere [LICENSE](./LICENSE) per i dettagli. 
+MIT License - Vedere [LICENSE](./LICENSE) per i dettagli.
