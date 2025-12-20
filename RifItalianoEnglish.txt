@@ -1,0 +1,6 @@
+RIF.,ITALIANO,ENGLISH,FUNZIONE / FUNCTION
+A,Cucchiaio Basculante,Tipping Bucket,Cuore meccanico: scatta ogni 1L di peso. / Mechanical heart: tips every 1L of weight.
+II,Dente di Scatto,Escapement Pawl,Trasmette il moto oscillatorio alla ruota. / Transfers oscillatory motion to the gear.
+2-4,Vite Senza Fine,Worm Gear,Riduttore di velocità per conteggio decimale. / Speed reducer for decimal counting.
+1-8-4,Tamburi Numeratori,Counting Drums,Visualizzazione litri totali (Blockchain Fisica). / Visual display of total liters (Physical Blockchain).
+C,Punto di Calibrazione,Calibration Point,Regolazione peso per precisione 100%. / Weight adjustment for 100% precision.
